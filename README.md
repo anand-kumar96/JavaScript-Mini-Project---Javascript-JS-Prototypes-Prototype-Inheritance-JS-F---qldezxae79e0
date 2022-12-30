@@ -1,4 +1,4 @@
-# JS-Project---Calendar
+# JS-Project---word Guessing Game 
 
 #### By Anand Kumar
 This is a webpage based app Word Guessing Game.
